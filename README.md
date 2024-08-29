@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🧠
 
-<!--
-**andreh36/andreh36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é André Luiz
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem de programação;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos de desenvolvidos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo📧
+
+  alvmkratos@gmail.com
+
+![](https://media1.tenor.com/m/LcbB94yg5l8AAAAC/kratos-god-of-war.gif)
+  
